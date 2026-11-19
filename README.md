@@ -41,4 +41,4 @@ GA4 · Search Console · Ahrefs · SEMrush · Screaming Frog · HubSpot · WordP
 
 ## Get in touch
 
-[LinkedIn](https://www.linkedin.com/in/keithquinney) · [Resume](Keith-Quinney-Resume.pdf) · keithquinneyy@gmail.com
+[Portfolio](https://keithquinney.com) · [LinkedIn](https://www.linkedin.com/in/keithquinney) · [Resume](Keith-Quinney-Resume.pdf) · keithquinneyy@gmail.com
