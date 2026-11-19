@@ -1,6 +1,6 @@
-<img src="keith.jpg" alt="Keith Quinney" width="230" align="right">
-
 # Hi, I'm Keith 👋
+
+<img src="keith.jpg" alt="Keith Quinney" width="230" align="right">
 
 I'm a digital marketer in Los Angeles. I get brands found on Google and in AI tools like ChatGPT, and I build the dashboards that keep a small marketing team on track.
 
